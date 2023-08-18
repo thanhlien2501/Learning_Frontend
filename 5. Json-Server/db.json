@@ -1,0 +1,54 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Khoá học lập trình web",
+      "content": "Lập trình web là một trong những lĩnh vực có độ “hot” nhất trong giới công nghệ thông tin"
+    },
+    {
+      "id": 2,
+      "name": "Lập trình trí tuệ nhân tạo",
+      "content": "Trí tuệ nhân tạo là lĩnh vực công nghệ phát triển bậc nhất hiện nay. Nó được mệnh danh là bước ngoặt của nền công nghệ toàn cầu"
+    },
+    {
+      "name": "NodeJS",
+      "content": "Dành cho backend",
+      "id": 3
+    },
+    {
+      "name": "NodeJS",
+      "content": "Dành cho backend",
+      "id": 4
+    },
+    {
+      "name": "NodeJS",
+      "content": "Dành cho backend",
+      "id": 5
+    },
+    {
+      "name": "NodeJS",
+      "content": "Dành cho backend",
+      "id": 6
+    },
+    {
+      "name": "VueJS",
+      "content": "Làm giao diện Web",
+      "id": 7
+    },
+    {
+      "name": "VueJS",
+      "content": "Làm giao diện Web",
+      "id": 8
+    },
+    {
+      "name": "PHP",
+      "content": "Code cơ bản",
+      "id": 9
+    },
+    {
+      "name": "PHP",
+      "content": "Code cơ bản",
+      "id": 10
+    }
+  ]
+}
